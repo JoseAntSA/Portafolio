@@ -1,0 +1,11 @@
+Para utilizar el archivo Visor.py se nececesitan de las imagenes generadas por el algoritmo, estas
+se encuentran en los directorios Reconstruccion y Recontruccion_1 siendo las carpetas con las 
+imagenes resultantes de la construccion de la imagen. Se proporicionan el link de descarga de
+ambos archivos.
+
+	- Recontruccion: Imagenes obtenidas de la ejecucion del programa por 4 dias
+	  https://drive.google.com/file/d/1KHD3MbbkLRiUgpZtpV0y7H7HDuY64HAP/view?usp=share_link
+
+	- Recontruccion_1: Imagenes obtenidas de la ejecucion del programa por 3 dias, añadiendo 
+	  la aptitud de las generaciones.
+	  https://drive.google.com/file/d/1wwLiW8SFS34Jgp_xSyILaVwO-v7Gtzhq/view?usp=share_link

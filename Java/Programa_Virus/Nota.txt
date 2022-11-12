@@ -1,0 +1,4 @@
+Para terminar el programar del virus:
+
+	1. Preisiona crtl + A.
+	2. Escribe la contraseñña -> Programacion
